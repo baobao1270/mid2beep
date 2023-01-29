@@ -76,11 +76,13 @@ To play the song with reboot, execucate the shell file.
 ## Test songs
 The test songs are in the `test_songs` folder. Please read the `LICENSE_NOTICE` file before using it.
 
-No|Song           |Original Singer  |Composer/Arranger|MIDI Creator
---|---------------|-----------------|-----------------|------------
-01|为了你唱下去     |洛天依            |COP              |澄镜P
-02|Feel Your Dream|洛天依            |Trii             |传输控制协议TCP
-03|一剪人间客       |星尘/海伊         |papaw泡泡         |皮皮蛋的皮
+No|Song              |Original Singer  |Composer/Arranger|MIDI Creator
+--|------------------|-----------------|-----------------|------------
+01|为了你唱下去        |洛天依            |COP              |澄镜P
+02|Feel Your Dream   |洛天依            |Trii             |传输控制协议TCP
+03|一剪人间客          |星尘/海伊         |papaw泡泡         |皮皮蛋的皮
+04|闭眼 我触碰幻想的边界|洛天依            |苏逸              |hmzNO10
+05|天知河             |说说Crystal      |西门振             |澄镜P
 
 ## License
 Code are released under MIT license. 
