@@ -22,6 +22,9 @@ for note in range(0, len(notes), 2):
     if frequency == 0:
         output.append(f"-D {duration}")
         continue
+    if duration == 0:
+        output.append(f"-n")
+        continue
     output.append(f"-n -f {frequency} -l {duration}")
 
 output = " ".join(output).strip()
